@@ -1,2 +1,2 @@
 # git-test
-hii this is me
+echo "hii this is me"
